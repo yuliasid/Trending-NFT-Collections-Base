@@ -1,4 +1,4 @@
-# NFT Collection Ranking on Base Blockchain
+# NFT Collection Ranking on Base
 
 ## Project Overview
 This project analyzes NFT collections on the Base, ranking them based on minting activity and creator influence using the EigenTrust algorithm.
